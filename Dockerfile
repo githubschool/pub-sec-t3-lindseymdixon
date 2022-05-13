@@ -11,8 +11,7 @@ FROM myoung34/github-runner:latest
 # Variables #
 #########################################
 ARG orgname="githubschool"
-ARG reponame="pub-sec-t3-lindseymdixon
-"
+ARG reponame="pub-sec-t3-lindseymdixon"
 
 #########################################
 # Label the instance and set maintainer #
